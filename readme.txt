@@ -4,3 +4,6 @@ git has a mutable index called stage.
 git tracks changes  of files.
 Creating a new branch is quick and simple.
 哈哈哈
+我的另外一个xxx同事
+11111
+22222
